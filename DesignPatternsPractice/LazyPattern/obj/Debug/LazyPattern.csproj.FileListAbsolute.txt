@@ -1,1 +1,2 @@
 C:\Users\srao\Documents\GitHub\DesignPatterns\DesignPatternsPractice\LazyPattern\bin\Debug\LazyPattern.exe.config
+C:\github\DesignPatterns\DesignPatternsPractice\LazyPattern\bin\Debug\LazyPattern.exe.config
